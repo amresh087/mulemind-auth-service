@@ -7,8 +7,6 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 import org.springframework.test.util.ReflectionTestUtils;
 
-import com.mulemind.auth.util.JwtUtil;
-
 import io.jsonwebtoken.Claims;
 
 class JwtUtilTest {
